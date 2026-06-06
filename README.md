@@ -1,11 +1,14 @@
 This is a project application where I try recreating well-known Flappy Bird game with goofy elements.
 <img width="640" height="640" alt="welcomeimg" src="https://github.com/user-attachments/assets/0cc64f8d-d555-4dc7-99ed-a8c074c334ca" />
+
 *Instructions: Press Up Arrow to bounce upward, the longer you fly, the higher point you achieve.
 Beware of obstacles, the boss, jumping too high, and dropping.
 Player can collect blue potion to collect more points.
+
 <img width="640" height="640" alt="instructions1" src="https://github.com/user-attachments/assets/f64ed036-4793-4d98-bdfa-044ffe2d5c47" />
 <img width="640" height="640" alt="instructions2" src="https://github.com/user-attachments/assets/2596046c-d3bc-4c2e-8e4d-dbb42221e282" />
 <img width="640" height="640" alt="instructions3" src="https://github.com/user-attachments/assets/328dd44b-99cf-49ef-812f-29e55d82f6a7" />
+
 *Selection: Player can select easy or hard mode. When choosing hard mode, the player is allowed to save the score to the saved leaderboard.
 <img width="640" height="640" alt="difficultyselect" src="https://github.com/user-attachments/assets/a3cbcf69-4b72-47e5-9b0d-03c6969e594e" />
 
