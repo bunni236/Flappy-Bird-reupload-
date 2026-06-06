@@ -13,6 +13,7 @@ Player can collect blue potion to collect more points.
 <img width="640" height="640" alt="difficultyselect" src="https://github.com/user-attachments/assets/a3cbcf69-4b72-47e5-9b0d-03c6969e594e" />
 
 *Playing:
+
 <img width="664" height="497" alt="image" src="https://github.com/user-attachments/assets/acd030b4-d869-4afd-bda6-e034dbd06484" />
 <img width="752" height="559" alt="image" src="https://github.com/user-attachments/assets/78ec5c55-96f2-4e1e-8375-1db42d0deb68" />
 <img width="727" height="549" alt="image" src="https://github.com/user-attachments/assets/bad26658-6841-4d20-9e4a-7ae4fd9d9ecd" />
